@@ -12,7 +12,7 @@
  
 - 👯 I’m looking to collaborate on OpenSource Projects in React
 
-- 📫 How to reach me: achantaswarnateja@gmail.com
+- 📫 reach me on: achantaswarnateja@gmail.com
 
 -->
 
